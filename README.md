@@ -12,5 +12,5 @@ Visualisation Toolkit.ipynb is a Python Jupyter Notebook to create visualisation
 
 Visualisation Walk Through.ipynb is a Python Jupyter Notebook going over how to create different visualisation types with teh visualisation toolkit and datadict.pickle
 
-Disertation contains a copy of the disertation
+Thesis contains a copy of the disertation
 
